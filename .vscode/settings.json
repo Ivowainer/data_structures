@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "stdio.h": "c",
+        "test_int_linked_list.h": "c"
+    }
+}
